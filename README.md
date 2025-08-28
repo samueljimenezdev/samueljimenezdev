@@ -62,8 +62,6 @@ I enjoy solving complex problems, following clean code practices, and working in
 
 - ✉️ [Email](mailto:sajimenezr1@gmail.com)  
 - 💼 [LinkedIn](http://www.linkedin.com/in/samuel-jimenez-dev)  
-- 🐙 [GitHub](https://github.com/samueljimenezdev)  
-- 📱 [WhatsApp](https://wa.me/573212208087)  
 
 ---
 
